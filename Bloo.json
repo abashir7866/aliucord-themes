@@ -1,0 +1,21 @@
+{
+    "manifest": {
+        "author": "boeing 747#4592",
+        "version": "1.0.0",
+        "name": "bloo"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -16643042,
+        "accent": -2673622,
+        "statusbar": -2673622,
+        "background_secondary": -16575696,
+        "active_channel": -16575696,
+        "mention_highlight": -16440487,
+        "input_background": -16643042
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
